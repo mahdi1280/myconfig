@@ -4,7 +4,7 @@ management:
         configprops:
             show-values: always
         env:
-            show-values: never
+            show-values: always
         restart:
             enabled: true
     endpoints:
