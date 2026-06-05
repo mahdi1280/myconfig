@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+payment:
+  timeout: 5s
+  provider: STRIPE
