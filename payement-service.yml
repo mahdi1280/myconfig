@@ -21,7 +21,7 @@ server:
             max: 1
 spring:
     application:
-        name: demo2
+        name: payement-service
     datasource:
         password: root
         url: jdbc:postgresql://localhost:5432/postgres
